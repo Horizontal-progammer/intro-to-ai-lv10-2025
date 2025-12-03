@@ -2,6 +2,7 @@
 *Grup 3 (Nizam, Pathya, Fauzan)*
 
 AI yang dapat mendeteksi sampah di kelas dengan kamera(WebCam/CCTV)
+
 ------------------------------Detail-------------------------------
 **1. EMPATHIZE (Memahami Masalah & User)**
 - *User*
